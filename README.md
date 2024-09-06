@@ -16,10 +16,15 @@ Game Over:- When the snake collides with the walls or its own body, the game end
 
 Technologies Used
 Java Swing: Used for creating the graphical user interface, including the game window, buttons, and score display.
+
 Java AWT: Employed for handling low-level event processing, such as keyboard inputs and rendering graphics on the game board.
+
 Graphics Class: Utilized for drawing the game components, including the snake, food, and game board.
+
 Object-Oriented Programming (OOP): The game is structured using OOP principles, making the code modular, reusable, and easy to maintain.
+
 Abstract Classes & Interfaces: Abstract classes and interfaces are implemented to define the general structure of the game components and ensure consistency across different elements.
+
 Exception Handling: Exception handling is employed to manage unexpected events and ensure the game runs smoothly without crashing.
 
 Screenshots:-
