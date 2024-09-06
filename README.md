@@ -15,6 +15,7 @@ Score Tracking:- The game keeps track of the player's score, which increases as 
 Game Over:- When the snake collides with the walls or its own body, the game ends, and a game-over message is displayed to the player.
 
 Technologies Used
+
 Java Swing: Used for creating the graphical user interface, including the game window, buttons, and score display.
 
 Java AWT: Employed for handling low-level event processing, such as keyboard inputs and rendering graphics on the game board.
